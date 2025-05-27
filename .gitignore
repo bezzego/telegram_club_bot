@@ -1,0 +1,13 @@
+# Python artifacts and caches
+__pycache__/
+*.py[cod]
+venv/
+
+# Environment variables file
+.env
+
+# Database file
+*.sqlite
+
+# Log files
+*.log
